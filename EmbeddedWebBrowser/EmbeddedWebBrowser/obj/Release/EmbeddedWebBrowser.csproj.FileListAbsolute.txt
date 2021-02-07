@@ -1,0 +1,10 @@
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Release\EmbeddedWebBrowser.exe.config
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Release\EmbeddedWebBrowser.exe
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\bin\Release\EmbeddedWebBrowser.pdb
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.Form1.resources
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.Properties.Resources.resources
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.csproj.GenerateResource.cache
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.csproj.CoreCompileInputs.cache
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.exe
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.pdb
+C:\Users\cedo\Documents\SoftwareProjects\EmbeddedWebBrowser\EmbeddedWebBrowser\obj\Release\EmbeddedWebBrowser.csprojAssemblyReference.cache

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuArchivo">
+    <property name="title">
+     <string>Archivo</string>
+    </property>
+    <addaction name="actionSalir"/>
+   </widget>
+   <widget class="QMenu" name="menuP_ginas">
+    <property name="title">
+     <string>Páginas</string>
+    </property>
+    <addaction name="actionDuarteCorporation_Tutoriales"/>
+    <addaction name="actionGoogle"/>
+    <addaction name="actionFacebook"/>
+    <addaction name="actionInstagram"/>
+    <addaction name="actionYoutube"/>
+    <addaction name="actionTwitter"/>
+    <addaction name="actionindex_html"/>
+   </widget>
+   <addaction name="menuArchivo"/>
+   <addaction name="menuP_ginas"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionSalir">
+   <property name="text">
+    <string>Salir</string>
+   </property>
+  </action>
+  <action name="actionDuarteCorporation_Tutoriales">
+   <property name="text">
+    <string>DuarteCorporation Tutoriales</string>
+   </property>
+  </action>
+  <action name="actionGoogle">
+   <property name="text">
+    <string>Google</string>
+   </property>
+  </action>
+  <action name="actionFacebook">
+   <property name="text">
+    <string>Facebook</string>
+   </property>
+  </action>
+  <action name="actionInstagram">
+   <property name="text">
+    <string>Instagram</string>
+   </property>
+  </action>
+  <action name="actionYoutube">
+   <property name="text">
+    <string>Youtube</string>
+   </property>
+  </action>
+  <action name="actionTwitter">
+   <property name="text">
+    <string>Twitter</string>
+   </property>
+  </action>
+  <action name="actionindex_html">
+   <property name="text">
+    <string>index.html</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
